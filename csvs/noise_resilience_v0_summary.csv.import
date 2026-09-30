@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://npv1okvytogl"
+
+[deps]
+
+files=["res://csvs/noise_resilience_v0_summary.total.translation", "res://csvs/noise_resilience_v0_summary.total.translation"]
+
+source_file="res://csvs/noise_resilience_v0_summary.csv"
+dest_files=["res://csvs/noise_resilience_v0_summary.total.translation", "res://csvs/noise_resilience_v0_summary.total.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

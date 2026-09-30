@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cgacgcur07hch"
+path="res://.godot/imported/ants_process.glsl-8d219dac7c48baeb9ba009406b47470f.res"
+
+[deps]
+
+source_file="res://shaders/ants_process.glsl"
+dest_files=["res://.godot/imported/ants_process.glsl-8d219dac7c48baeb9ba009406b47470f.res"]
+
+[params]
+

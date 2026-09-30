@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cn5mu6ilkpw1h"
+path="res://.godot/imported/ants_build.glsl-bd943a2dcbfde158d4b509a043a5c1db.res"
+
+[deps]
+
+source_file="res://shaders/ants_build.glsl"
+dest_files=["res://.godot/imported/ants_build.glsl-bd943a2dcbfde158d4b509a043a5c1db.res"]
+
+[params]
+
